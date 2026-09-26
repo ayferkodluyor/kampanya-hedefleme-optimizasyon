@@ -16,3 +16,6 @@ Kampanya sonuçları kullanıcı arayüzü üzerinden incelenir.
 - `kampanya.py` — müşteri verileri üzerinden kampanya hedefleme ve analiz işlemlerini gerçekleştirir.
 - `kampanya_yanit.py` — kampanya yanıtlarına yönelik veri işleme ve analiz adımlarını içerir.
 - `main.py` — Streamlit tabanlı kullanıcı arayüzünü ve sonuçların görselleştirilmesini sağlar.
+
+## 📸 Uygulama Görünümü
+![Kampanya Hedefleme ve Optimizasyon](kampanya-optimizasyon.jpg)
