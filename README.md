@@ -18,4 +18,5 @@ Kampanya sonuçları kullanıcı arayüzü üzerinden incelenir.
 - `main.py` — Streamlit tabanlı kullanıcı arayüzünü ve sonuçların görselleştirilmesini sağlar.
 
 ## 📸 Uygulama Görünümü
+
 ![Kampanya Hedefleme ve Optimizasyon](kampanya-optimizasyon.jpg)
