@@ -13,8 +13,6 @@ Kampanya hedefleme süreci uygulanır.
 Kampanya sonuçları kullanıcı arayüzü üzerinden incelenir.
 
 📁 Proje Dosyaları
-
-Kampanya_Yanıt_Tahmini_Sentetik_Veri — eğitim amaçlı verilerin oluşturulması
-kampanya_yanıt.py — kampanya hedefleme ve optimizasyon işlemleri
-main.py — uygulamanın kullanıcı arayüzü
-
+- `kampanya.py` — müşteri verileri üzerinden kampanya hedefleme ve analiz işlemlerini gerçekleştirir.
+- `kampanya_yanit.py` — kampanya yanıtlarına yönelik veri işleme ve analiz adımlarını içerir.
+- `main.py` — Streamlit tabanlı kullanıcı arayüzünü ve sonuçların görselleştirilmesini sağlar.
