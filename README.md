@@ -11,7 +11,7 @@ Kampanya hedefleme süreci uygulanır.
 Kampanya sonuçları kullanıcı arayüzü üzerinden incelenir.
 
 📁 Proje Dosyaları
-veri_uret.py — sentetik verilerin oluşturulması
-kampanya_motoru.py — kampanya hedefleme ve optimizasyon işlemleri
-app.py — uygulamanın kullanıcı arayüzü
+Kampanya_Yanıt_Tahmini_Sentetik_Veri — eğitim amaçlı verilerin oluşturulması
+kampanya_yanıt.py — kampanya hedefleme ve optimizasyon işlemleri
+main.py — uygulamanın kullanıcı arayüzü
 
