@@ -20,3 +20,8 @@ Kampanya sonuçları kullanıcı arayüzü üzerinden incelenir.
 ## 📸 Uygulama Görünümü
 
 ![Kampanya Hedefleme ve Optimizasyon](kampanya-optimizasyon.jpg)
+
+
+## 🎥 Proje Videosu
+Kampanya Hedefleme ve Optimizasyon projesinin kısa tanıtım videosunu YouTube kanalımda izleyebilirsiniz: https://www.youtube.com/watch?v=-zO7YJ6rN3g
+
