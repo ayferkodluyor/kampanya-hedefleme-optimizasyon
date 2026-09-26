@@ -1,4 +1,5 @@
 🎯 Kampanya Hedefleme ve Optimizasyon
+
 Müşteri verileri üzerinden kampanya hedefleme ve optimizasyon sürecini uygulamalı olarak incelemek amacıyla geliştirdiğim Python tabanlı bir eğitim ve portföy projesidir.
 
 🎯 Projenin Amacı
